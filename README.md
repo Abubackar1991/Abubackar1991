@@ -1,6 +1,6 @@
 # Hi 👋 , I'm Abubackar 
  
-  ## Fullstack Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+  ## Software Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
  
 
 - 🔭 I’m currently working in Phnom Penh, Cambodia
