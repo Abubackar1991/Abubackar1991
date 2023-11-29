@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working in Phnom Penh, Cambodia
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning New Technologies
 - 👯 I’m looking to collaborate with other developers
 - ⚡️ Fun fact I love driving, trekking, swimming, and playing cricket.
 
